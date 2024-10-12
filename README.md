@@ -16,6 +16,5 @@ I’m always looking for opportunities to collaborate on interesting projects. F
 
 ## 📫 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/snehal-prajapati-582146184/)
-- [Gmail](snehal8prajapati@gmail.com)
 
 I am looking forward to connecting and building awesome things together!
