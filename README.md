@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Snehal1001/Snehal1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 💻 Full-Stack Developer | Transforming Ideas into Code
 
-Here are some ideas to get you started:
+I'm a passionate **Fullstack Web Developer** with experience in building dynamic web applications. My expertise includes:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Front-end**: Angular, React.js
+- **Back-end**: .NET
+- **Database**: MS SQL
+
+I’m currently diving into React.js and .NET and exploring Azure services. I love learning new technologies, and I'm focusing on cloud computing.
+
+## 💼 Open to Collaboration
+I’m always looking for opportunities to collaborate on interesting projects. Feel free to reach out if you have an idea or need a hand with something!
+
+
+## 📫 Get in Touch
+- [LinkedIn](www.linkedin.com/in/snehal-prajapati-582146184)
+
+I am looking forward to connecting and building awesome things together!
