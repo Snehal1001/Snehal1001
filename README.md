@@ -5,7 +5,7 @@
 I'm a passionate **Fullstack Web Developer** with experience in building dynamic web applications. My expertise includes:
 
 - **Front-end**: Angular, React.js
-- **Back-end**: .NET
+- **Back-end**: .NET Core, Entity Framework core
 - **Database**: MS SQL
 
 I’m currently diving into React.js and .NET and exploring Azure services. I love learning new technologies, and I'm focusing on cloud computing.
